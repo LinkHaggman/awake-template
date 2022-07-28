@@ -31,9 +31,8 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
+      name: '🎮 Games',
+      link: '/categories/games',
     },
     {
       name: 'Awake+ Premium',
