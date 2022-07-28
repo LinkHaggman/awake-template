@@ -67,7 +67,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'https-furnews-netlify-app' // 'https-furnews-netlify-app'
   },
 
   // Newsletter Subscribe
