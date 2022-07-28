@@ -19,11 +19,11 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: '🐺 About',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: '📧 Contact',
       link: '/contact'
     },
     {
@@ -35,9 +35,16 @@ export default {
       link: '/categories/games',
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
+      name: '📽️ Movies',
+      link: '/categories/movies',
+    },
+    {
+      name: '🧵 Fursuits',
+      link: '/categories/fursuits',
+    },
+    {
+      name: '🗓️ Events',
+      link: '/categories/events',
     }
   ],
   hero: {
