@@ -1,5 +1,5 @@
 ---
 name: Games
 image: /uploads/home-hero.jpg
-description: Games
 ---
+All the latest furry game news
