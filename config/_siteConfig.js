@@ -32,19 +32,19 @@ export default {
     },
     {
       name: '🎮 Games',
-      link: '/categories/games',
+      link: '/categories/games'
     },
     {
       name: '📽️ Movies',
-      link: '/categories/movies',
+      link: '/categories/movies'
     },
     {
       name: '🧵 Fursuits',
-      link: '/categories/fursuits',
+      link: '/categories/fursuits'
     },
     {
       name: '🗓️ Events',
-      link: '/categories/events',
+      link: '/categories/events'
     }
   ],
   hero: {
