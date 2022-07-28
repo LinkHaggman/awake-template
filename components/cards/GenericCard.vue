@@ -77,6 +77,12 @@ export default {
 }
 </script>
 <style scoped lang="scss">
+.image {
+      border-radius: 15% 15% 0px 0px;
+}
+.card {
+    border-radius: 15%;
+  }
 .subtitle {
   opacity: 0.5;
   font-size: 0.8rem;
@@ -89,7 +95,7 @@ export default {
   &:before {
     transform-origin: left;
     content: '';
-    background: #eee;
+    background: rgb(255, 255, 255);
     width: 100%;
     position: absolute;
     top: 0;
