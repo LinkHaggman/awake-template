@@ -39,6 +39,10 @@ export default {
       link: '/categories/movies'
     },
     {
+      name: '📚 Books',
+      link: '/categories/books'
+    },
+    {
       name: '🧵 Fursuits',
       link: '/categories/fursuits'
     },
