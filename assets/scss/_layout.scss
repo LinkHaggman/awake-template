@@ -1,6 +1,9 @@
 /*! purgecss start ignore */
-h1 h2 h3 h4 h5 h6 {
-  color: #46b9e6;
+h2 {
+  color: #46b9e6 !important;
+}
+h6 {
+  color: #46b9e6 !important;
 }
 p {
   color: #dadada;
