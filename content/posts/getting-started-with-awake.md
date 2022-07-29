@@ -5,7 +5,7 @@ category:
   - Games
 author: Sherlock Holmes
 date: 2019-08-03T19:59:59.000Z
-featureImage: /uploads/super-animal-royale-season-4.webp
+featureImage: /uploads/sars4.png
 ---
 <!--StartFragment-->
 
