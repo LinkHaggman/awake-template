@@ -4,7 +4,7 @@ subtitle: Has you battling some big moles
 category:
   - Games
 author: Sherlock Holmes
-date: 2019-08-03T19:59:59.000Z
+date: 2022-07-29T09:04:14.186Z
 featureImage: /uploads/sars4.png
 ---
 Super Animal Royale does not contain the sort of woodland creatures you find in children's movies, fluttering around a princess as she warbles about her evil family or a handsome man she met five minutes ago. These critters may still be every bit as adorable, but they're packing serious heat and are ready for the cutest fight to the death. 
