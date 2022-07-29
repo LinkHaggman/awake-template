@@ -68,7 +68,10 @@ export default {
 .edit-post {
   margin-bottom: 20px;
 }
-b, strong {
-  color: #46b9e6 !important;
+strong {
+  color:#46b9e6 !important;
+  }
+  b {
+  color:#46b9e6 !important;
   }
 </style>
