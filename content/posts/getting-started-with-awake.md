@@ -1,11 +1,11 @@
 ---
-title: Getting Started
-subtitle: Get Up and Running with Awake
+title: Season 4 of Super Animal Royale out now
+subtitle: Has you battling some big moles
 category:
-  - About Awake
-author: Daniel Kelly
+  - Games
+author: Sherlock Holmes
 date: 2019-08-03T19:59:59.000Z
-featureImage: /uploads/getting-started-hero.jpg
+featureImage: /uploads/super-animal-royale-season-4.webp
 ---
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
