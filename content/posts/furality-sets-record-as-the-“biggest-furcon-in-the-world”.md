@@ -2,7 +2,7 @@
 title: Furality sets record as the “biggest furcon in the world”
 subtitle: Virtual furry events are growing very, very fast.
 category:
-  - About Awake
+  - Books
 author: Irene Adler
 date: 2022-07-30T14:00:33.724Z
 featureImage: /uploads/TBG.png
