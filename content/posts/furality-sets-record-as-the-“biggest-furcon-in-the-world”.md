@@ -4,7 +4,7 @@ subtitle: Virtual furry events are growing very, very fast.
 category:
   - About Awake
 author: Irene Adler
-date: 2022-07-30T13:54:54.507Z
+date: 2022-07-30T14:00:33.724Z
 featureImage: /uploads/TBG.png
 ---
 VR event [Furality is now, by attendee count, the biggest furry convention](https://twitter.com/ScarTheFurry/status/1539325982116663297).
