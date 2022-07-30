@@ -15,10 +15,6 @@ Local furries in Chengdu staged a public dance session in fursuit at the [Danji
 
 Members of the public are surprised, excited and happy.
 
-> At first I did not want to come today, but after coming, it felt very nice; an unexpected surprise.
->
-> I felt this is really good, kids like it so much they don’t want to leave!
->
 > We came from Ziyang city, I felt so happy. It’s been long since this kind of playful scene came. I’m a kindergarten teacher; I like this kind of cartoon.
 
 As usual, furries will take any chances to pounce into the public eye and give it more colour.
