@@ -4,7 +4,7 @@ subtitle: Volume 22 finishes Paru Itagaki’s story
 category:
   - Books
 author: Mrs. Hudson
-date: 2022-07-30T13:01:09.133Z
+date: 2022-07-30T13:08:38.913Z
 featureImage: /uploads/bs1.png
 ---
 Awake is fast for a couple different reasons. It both capitalizes on the platform it's built for (JAM Stack) and the framework it's built on (Nuxt.js) as well as includes some intentional optimizations to improve the end user experience when it comes to speed. 
