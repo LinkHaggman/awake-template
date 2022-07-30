@@ -1,6 +1,6 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: BEASTARS manga’s ending
+subtitle: Volume 22 finishes Paru Itagaki’s story
 category:
   - About Awake
 author: Daniel Kelly
