@@ -2,7 +2,7 @@
 title: Furries give more colour to this year’s Dragon Boat Festival
 subtitle: "Staged a public dance session in fursuit "
 category:
-  - About Awake
+  - Fursuits
 author: Greg Lestrade
 date: 2022-07-30T13:28:23.771Z
 featureImage: /uploads/fursuits1.png
