@@ -20,5 +20,6 @@ footer {
   padding: 20px 10px;
   text-align: center;
   transition: 0.5s ease all;
+  color: #46b9e6
 }
 </style>
