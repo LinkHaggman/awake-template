@@ -1,7 +1,6 @@
-/* eslint-disable */
 <template>
   <div>
-   Twitter: @FurNews<br>TikTock: @FurNews
+   🐦 Twitter: @FurNews 📸TikTock: @FurNews
   </div>
 </template>
 
@@ -22,4 +21,3 @@ export default {
   }
 }
 </script>
-/* eslint-disable */
