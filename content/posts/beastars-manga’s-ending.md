@@ -5,7 +5,7 @@ category:
   - Books
 author: Mrs. Hudson
 date: 2022-07-30T13:15:56.272Z
-featureImage: /uploads/beastars1.jpg
+featureImage: /uploads/Beastars.png
 ---
 The BEASTARS manga’s ending is “in sight,” according to original manga creator Paru Itagaki. The writer/artist says she is putting everything she has into the work until the end and hopes fans will follow the journey.
 
